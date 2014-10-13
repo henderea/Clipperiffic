@@ -36,7 +36,7 @@ Motion::Project::App.setup do |app|
   app.identifier                = 'com.clipperiffic.Clipperiffic'
   app.info_plist['NSUIElement'] = 1
   # app.info_plist['SUFeedURL']   = 'https://rink.hockeyapp.net/api/2/apps/128ebd3240db358d4b1ea5f228269de6'
-  app.deployment_target         = '10.7'
+  app.deployment_target         = '10.8'
   app.codesign_certificate      = 'Developer ID Application: Eric Henderson (SKWXXEM822)'
   app.paddle {
     # set :product_id, '993'
