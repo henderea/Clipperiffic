@@ -1,3 +1,0 @@
-[submodule "vendor/ShortcutRecorder"]
-	path = vendor/ShortcutRecorder
-	url = git://github.com/Kentzo/ShortcutRecorder.git

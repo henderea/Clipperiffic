@@ -59,5 +59,6 @@ Motion::Project::App.setup do |app|
     pod 'CocoaLumberjack'
     pod 'HockeySDK-Mac', '~> 2.1'
     pod 'Sparkle'
+    pod 'MASShortcut'
   end
 end
